@@ -12,6 +12,9 @@ body {
     color: var(--cor-principal);
 }
 
+.col-md-4 {
+ flex: auto;
+}
 h1,
 h2,
 h5 {
@@ -30,4 +33,49 @@ footer a {
 
 footer a:hover {
     color: var(--cor-destaque);
+}
+
+.card-title1 {
+    color: green;
+}
+.card-text1 {
+    color: rgb(12, 231, 12);
+}
+
+.card-title2 {
+    color: rgb(163, 7, 7);
+}
+.card-text2 {
+    color: rgb(216, 204, 35);
+}
+
+.card-title3 {
+    color: black;
+}
+.card-text3 {
+    color: rgb(87, 87, 84);
+}
+
+.modal-title1 {
+    color: green;
+}
+
+.modal-body1 {
+    color: rgb(12, 231, 12);
+}
+
+.modal-title2 {
+    color: rgb(163, 7, 7);
+}
+
+.modal-body2 {
+    color: rgb(216, 204, 35);
+}
+
+.modal-title3 {
+    color: black;
+}
+
+.modal-body3 {
+    color: rgb(87, 87, 84);
 }
